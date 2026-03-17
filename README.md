@@ -71,7 +71,7 @@ BE_NLP_72235149G_AtharvBhondave /
 1. Clone the repository:
 
 ```bash
-
+gh repo clone ATHARV162004/BE_NLP_72235149G_AtharvBhondave
 ```
 
 2. Install required libraries:
